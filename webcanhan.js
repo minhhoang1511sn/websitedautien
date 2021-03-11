@@ -1,0 +1,16 @@
+x=document.querySelector('.ts');
+x.addEventListener('click',function(){
+    console.log("fsdfdfsdf");  
+});
+x1=document.querySelector('.hv');
+x1.addEventListener('click',function(){
+    console.log("fsdfdfsdf");  
+});
+x2=document.querySelector('.st');
+x2.addEventListener('click',function(){
+    console.log("fsdfdfsdf");  
+});
+x3=document.querySelector('.ttll');
+x3.addEventListener('click',function(){
+    console.log("fsdfdfsdf");  
+});
